@@ -22,3 +22,4 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
     show-sql : true
 
+#OAuth2 인증 설정은 git에 보안상 올릴 수 없으므로 본인이  영상을 보고  설정하세요^^
